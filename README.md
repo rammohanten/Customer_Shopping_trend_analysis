@@ -1,4 +1,4 @@
-# Customer_Shopping_behaviour_analysis
+# Retail Customer Performance & Purchasing Behaviour Analysis
 Power BI dashboard analyzing customer shopping metrics to identify the trends
 
 #  Project Overview
